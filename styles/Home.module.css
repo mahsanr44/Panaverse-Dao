@@ -7,6 +7,12 @@
   min-height: 100vh;
 }
 
+.mobileNav{
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+}
+
 .description {
   display: inherit;
   justify-content: inherit;
