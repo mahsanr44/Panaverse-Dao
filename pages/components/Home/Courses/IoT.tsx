@@ -35,7 +35,7 @@ Ambient Computing and IoT Specialization
 
 The Ambient Computing and IoT Specialization focuses on building Smart Homes, Offices, Factories, and Cities using Voice computing, Matter Protocol, and Embedded Devices.                        </Text>
 </Heading>
-<Stack direction="row"> 
+<Stack direction={["column","row","row"]}> 
 <Flex
   
   _dark={{

@@ -35,7 +35,7 @@ export default function WMD() {
 
 This Web 3.0 and Metaverse specialization focuses on developing full-stack Web 3.0 and Metaverse experiences for the next generation of the internet by specializing in building worlds that merge the best of cutting-edge decentralized distributed blockchains with 3D metaverse client experiences.                          </Text>
 </Heading>
-<Stack direction="row"> 
+<Stack direction={["column","row","row"]}> 
 <Flex
   
   _dark={{
@@ -202,7 +202,7 @@ textAlign="center"
           color: "white",
         }}
       >
-Developing Planet-Scale Open Virtual and Augmented Metaverse Experiences     </chakra.h1>
+Developing Planet-Scale Virtual and Augmented Metaverse Experiences     </chakra.h1>
       
     </Box>
 

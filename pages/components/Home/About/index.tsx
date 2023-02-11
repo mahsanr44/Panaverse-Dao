@@ -1,4 +1,4 @@
-import Navbar from "@/pages/Navbar";
+import Navbar from "@/pages/components/Home/Landing Page/Navbar";
 import President from "./president";
 import Team from "./team";
 

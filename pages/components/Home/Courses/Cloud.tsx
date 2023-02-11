@@ -35,7 +35,7 @@ export default function Cloud() {
 
 The Cloud-Native Computing Specialization focuses on Containers, Kubernetes, and CDK for Kubernetes.                       </Text>
 </Heading>
-<Stack direction="row"> 
+<Stack direction={["column","row","row"]}> 
 <Flex
   
   _dark={{

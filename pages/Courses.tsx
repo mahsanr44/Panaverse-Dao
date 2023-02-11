@@ -1,8 +1,8 @@
 import { Box, chakra, Container,Text, Divider, Flex, Heading, Link, Stack } from "@chakra-ui/react";
 import Head from "next/head";
 import CoursesIndex from "./components/Home/Courses/CoursesIndex";
-import Footer from "./components/Home/Footer";
-import Navbar from "./Navbar";
+import Footer from "./components/Home/Landing Page/Footer";
+import Navbar from "./components/Home/Landing Page/Navbar";
 
 export default function Courses() {
   return (

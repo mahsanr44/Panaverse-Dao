@@ -1,6 +1,6 @@
 import Head from "next/head";
 import AboutIndex from "./components/Home/About/index";
-import Footer from "./components/Home/Footer";
+import Footer from "./components/Home/Landing Page/Footer";
 
 
 export default function About () {

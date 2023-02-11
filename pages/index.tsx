@@ -1,10 +1,10 @@
 import Head from 'next/head'
 import styles from '@/styles/Home.module.css'
-import Navbar from './Navbar'
-import Panaverse from './components/Home/Panaverse'
+import Navbar from './components/Home/Landing Page/Navbar'
+import Panaverse from './components/Home/Landing Page/Panaverse'
 import Program from './components/Home/Program'
-import Students from './components/Home/Students'
-import Footer from './components/Home/Footer'
+import Students from './components/Home/Landing Page/Students'
+import Footer from './components/Home/Landing Page/Footer'
 
 
 export default function Home() {
@@ -21,6 +21,7 @@ export default function Home() {
         <Panaverse/>
         <Program/>
         <Students/>
+        
         <Footer/>
 
        

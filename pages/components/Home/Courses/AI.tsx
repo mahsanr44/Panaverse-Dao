@@ -36,7 +36,7 @@ Artificial Intelligence (AI) and Deep Learning Specialization
 The AI and Deep Learning specialization focuses on building and deploying intelligent APIs using OpenAI models and building custom Deep Learning Tensorflow models.
                         </Text>
 </Heading>
-<Stack direction="row"> 
+<Stack direction={["column","row","row"]}> 
 <Flex
   
   _dark={{

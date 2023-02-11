@@ -36,7 +36,7 @@ export default function Core() {
                         fontSize={{ base: 'xl', sm: '2xl', lg: '3xl' }}>
                         Every participant of the program will start by completing the following three core courses:           </Text>
                     </Heading>
-      <Stack direction="row" >
+      <Stack direction={["column","row","row"]} >
 <Flex
   
   _dark={{
